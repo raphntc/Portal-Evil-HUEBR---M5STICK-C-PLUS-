@@ -16,4 +16,6 @@ Escondidos à vista de todos, os honeypots Wi-Fi são redes sem fio enganosas qu
 
 Este é um Portal Evil desenvolvido para o M5STICK PLUS!
 
+Para vizualizar as credenciais acesse: https://172.0.0.1/creds  (Lembrando que precisa estar conectado na rede :v)
+
 ![WhatsApp Image 2023-12-15 at 02 28 56](https://github.com/raphntc/Portal-Evil-HUEBR/assets/112436208/a3369115-f965-43ab-a334-99518f61ab5e)
