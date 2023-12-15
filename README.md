@@ -1,5 +1,7 @@
 # Portal Evil HUEBR
 This is a fork code do https://github.com/n0xa/
+Moded BY: https://github.com/Kuush01
+Moded BY: https://github.com/raphntc
 
 en-US
 
