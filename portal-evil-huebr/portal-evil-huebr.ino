@@ -12,7 +12,7 @@
 
  
 // User configuration
-#define SSID_NAME "Wi-Fi Gratis"
+#define SSID_NAME "Wif-fi Rui Barbosa"
 #define SUBTITLE "E-CORP service."
 #define TITLE "Sign in:"
 #define BODY "Create an account to get connected to the internet."
