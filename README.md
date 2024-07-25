@@ -1,4 +1,4 @@
-# Portal Evil HUEBR for M5 STICK C 2
+# Portal Evil HUEBR for M5 STICK C PLUS
 This is a fork code do https://github.com/n0xa/
 
 Moded BY: https://github.com/devotaviocc/
